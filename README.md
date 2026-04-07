@@ -1,11 +1,11 @@
-# Edutiv.
+# Edutiv. - educative-flutter
 
 
 
 ## About the Apps
 Edutiv is an E-Learning, Learning Management System that we can learn Tech Related Courses by watching videos, materials from slides and quizes.
 
-## Technologies
+## Technologies that have been used:
 - [Flutter](https://docs.flutter.dev/get-started/install)
 - [Dio](https://pub.dev/packages/dio)
 - [Providers](https://pub.dev/packages/provider)
